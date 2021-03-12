@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaouherK)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JaouherK&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JaouherK&repo=proxy-gateway&show_owner=true)](https://github.com/JaouherK/proxy-gateway)
