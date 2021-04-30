@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jaouher! 👋</h1>
 
 <!--
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JaouherK&repo=proxy-gateway&show_owner=true)](https://github.com/JaouherK/proxy-gateway)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaouherK&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/>
