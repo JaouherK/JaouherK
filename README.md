@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Jaouher! 👋</h1>
 
+![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=red)
+![Repos Badge](https://badges.pufler.dev/repos/rudrabarad/?color=red)
+![Years Badge](https://badges.pufler.dev/years/rudrabarad/?color=red)
+<img align="right" alt="GIF" src="https://github.com/JaouherK/JaouherK/blob/main/assets/code.gif?raw=true" width="100%"/>
 <!--
 Here are some ideas to get you started:
 
