@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**JaouherK/JaouherK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +17,5 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaouherK)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JaouherK&repo=proxy-gateway&show_owner=true)](https://github.com/JaouherK/proxy-gateway)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/>
