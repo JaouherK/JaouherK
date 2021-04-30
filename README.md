@@ -14,9 +14,8 @@
 - :tophat: Engineering manager @ [EQS Group](https://www.eqs.com/). 
 - :walking: Former IT engineer/captain @ [Tunisian Ministry of Defence](http://www.defense.tn/)
 - :tv: IT trainer and a technical writer. 
-- :book: Book writer [“Instant HTML5 Fonts and Typography”](https://www.packtpub.com/web-development/instant-html5-fonts-and-typography-instant)
-
-- 📝 Checkout my [profile](https://www.linkedin.com/in/jaouher-kharrat/?locale=en_US)
+- :book: Book writer
+- :keyboard: Coding fanatic
 
 <div style="clear: both"></div>
 
@@ -46,6 +45,7 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/JaouherK/
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/52a2c7f5d2bd5ef43e018f61ccd9f625bd337d5d/profileLinkedin.json)](https://www.linkedin.com/in/jaouher-kharrat/?locale=en_US)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/95ccdc3a476cf880bfd3751733e99a25026aa91a/profileTwitter.json)](https://twitter.com/ShinigamiGood)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/39da560a77269cfd4f98617755dcbca980f40c51/profileQuora.json)](https://www.quora.com/profile/Jackie-857)
+
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9c69be885f4bb6e55765ab00781ac64a/raw/rb-spotify.json)](https://open.spotify.com/playlist/5Q1GNGC7oWX3nbaGwNYSqv?si=8NwSlkEeSACzj-GZzSfbug)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/e66ffc768fd7033a81ea157d8cd5ee6bea196af6/profileGithub.json)](https://github.com/JaouherK)
 <a href="https://github.com/JaouherK/JaouherK/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
