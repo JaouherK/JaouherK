@@ -17,6 +17,8 @@
 - :book: Book writer
 - :keyboard: Coding fanatic
 
+This is a [user guide](https://github.com/JaouherK/JK-user-guide) to work with me 😉 
+
 <div style="clear: both"></div>
 
 ----
