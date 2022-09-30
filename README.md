@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Jaouher! 👋
 
 ![](https://komarev.com/ghpvc/?username=JaouherK&color=red&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/JaouherK/JaouherK/?color=red)
-![Repos Badge](https://badges.pufler.dev/repos/JaouherK/?color=red)
-![Years Badge](https://badges.pufler.dev/years/JaouherK/?color=red)
-![Gists](https://badges.pufler.dev/gists/JaouherK/?color=red)
+
 </h1>
 
 ---
